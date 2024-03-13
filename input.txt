@@ -1,0 +1,10 @@
+conditional.sh
+forloop.sh
+greeting.sh
+hello
+input.txt
+jadwal.sh
+loop.sh
+output.txt
+run_all.sh
+swichcase.sh
